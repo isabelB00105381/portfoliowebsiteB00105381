@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+/*written by Isabel Hartnett*/
+
+header{
+	background-color: black;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color:white;
+	position:absolute;
+	left:0%;
+	right:0%;
+	top:0%;
+	text-align:center;
+	padding-bottom:2%;
+	overflow:hidden;
+	margin:auto;
+	height:180px;
+	width:1280px;
+}
+
+.header{
+	width:1280px;
+	margin:auto;
+	padding-bottom:3%;
+	padding-top:0.1%
+}
+
+.rotateimg180 {
+  -webkit-transform:rotate(270deg);
+}
+	
+header img{
+	border-radius:50%;
+	width:15%;
+	border-style:solid;
+	border-width:2px;
+	border-color:white;
+	float:left;
+	margin-left:4%;
+	margin-top:1%;
+	margin-bottom:2%;
+	padding: 0.3%;
+	
+}
+
+h1{
+	font-size:500%;
+	margin-left:10%;
+	margin-right:15%;
+	margin-bottom:1%;
+	margin-top:3.5%;
+}
+
+body{
+	background-color:#FFFFFF;
+	width:1280px;
+	padding-top:210px;
+	padding-bottom:2%;
+	padding-left:0%;
+	padding-right:0%;
+	height:100%;
+	margin:auto;
+}
+
+footer{
+	background: -webkit-linear-gradient( bottom, #000000, #ffffff);
+	color:#CDC441;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	position:fixed;
+	bottom:0%;
+	left:0%;
+	right:0%;
+	text-align:center;
+	font-style:normal;
+	width:100%;
+	margin:auto;
+	font-size:100%;
+	padding-top:2%;
+	padding-bottom:-3%;
+}
+
+.footer{
+	margin:auto;
+	padding-left:26%;
+	padding-right:26%;
+}

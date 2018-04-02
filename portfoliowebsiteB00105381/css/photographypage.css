@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Written by Isabel Hartnett */
+
+h3{
+	color: #CDC441;
+	font-family: "arizonia", "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align:center;
+	width:50%;
+	margin:auto;
+	padding-top:3%;
+	padding-bottom:2%;
+	font-size:200%;
+}
+
+.photocollection{
+	text-align:center;
+	padding-bottom:5%;
+	background:-webkit-linear-gradient(left top, #000000, #ffffff);
+	padding-top:3%;
+}
+
+#3columns{
+	padding-top:3%;
+}
+
+.row1{
+	width:30%;
+	display:inline-block;
+	height:90%;
+}
+
+.row2{
+	width:30%;
+	display:inline-block;
+	height:90%;
+}
+
+.row3{
+	width:30%;
+	display:inline-block;
+	height:90%;
+}
+
+.photocollection img{
+	width:100%;
+}
+
+#3columns{
+	font-size:100%;
+}

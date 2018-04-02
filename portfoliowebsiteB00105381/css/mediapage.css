@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Written by Isabel Hartnett*/
+
+h2{
+	color: #CDC441;
+	font-family: "Segoe", "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align:center;
+	width:50%;
+	margin:auto;
+	padding-top:4%;
+	padding-bottom:4%;
+	font-size:200%;
+}
+
+h3{
+	text-align:center;
+	color: #cdc441;
+}
+
+.firstcolumn{
+	text-align:center;
+	margin:auto;
+	width:50%;
+	padding-left:25%;
+	padding-right:25%;
+	padding-top:5%;
+	color: white;
+	padding-bottom:5%;
+	background:-webkit-linear-gradient( left top, #000000, #ffffff);
+}
+
+.mediawork{
+	text-align:center;
+}
